@@ -21,3 +21,14 @@ def rotate_once(x):
 
 
 rotate_once(1)
+
+
+# This function will allow us to move the car in any way
+
+# a = Speed of car
+# b = Specifies fowards or backwards movement
+# c = How much the car will turn
+
+def move(a, b, c,):
+    # This is a filler so we don't get any errors when testing other code
+    print("There will be code here")
